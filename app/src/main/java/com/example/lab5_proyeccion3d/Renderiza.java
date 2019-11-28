@@ -133,7 +133,7 @@ public class Renderiza extends GLSurfaceView implements Renderer {
 
         
 		gl.glEnable(GL10.GL_DEPTH_TEST);
-		gl.glClearColor(0,0,0, 0);
+		gl.glClearColor(180/255f, 255/255f, 247/256f, 0);
 
 	}
 	
